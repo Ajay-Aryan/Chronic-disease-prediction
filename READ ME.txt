@@ -1,0 +1,11 @@
+READ ME --
+
+Prerequisites - 
+(FLask, pandas, and sklearn library should be installed)
+
+(Google Colab is Recommended)
+1. Open Google colab.
+1. Chronic_Disease_Prediction.ipynb is the main code file for the project. Open it in Google Colab. 
+2. Upload all three datasets and add their location in place of "file_path" in their respective code.
+4. Run those codes to see the accuracies, correlation matrix, histograms, and bar plots for each dataset.
+
