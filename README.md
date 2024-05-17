@@ -57,6 +57,3 @@ Ensure you have Python installed on your system along with the required librarie
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests for any enhancements or bug fixes.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
